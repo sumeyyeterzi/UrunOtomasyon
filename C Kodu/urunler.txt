@@ -1,7 +1,5 @@
 
-pc apple 18 0
 bilgisayar hp as 12
 bilgisayar lenova i5 0
 makina bosch 18 0
-
 kulaklçk apple 1 12
